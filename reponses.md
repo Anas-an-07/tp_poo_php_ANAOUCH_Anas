@@ -14,3 +14,18 @@
 
 **1.4
 - no , there is nothing happen out side of classe , the one chnage happen in "heritage"
+
+
+#Repons partie2
+**2-1a :
+- php is a flexble langue , so when we put "new Voiture("Noire")" : the out put is couleur black and vitesse 0 and this is ligic , but when we put "ew Voiture(120)" the output is couleur 120 and vitesse 0 , and this is not logic
+**2-2b :
+- the being more simple and clear 
+
+#Repons partie3
+**3.2 
+- with out set php genere am error fatale
+- with set php give u the access
+**3.3
+- yes set casser l'encapsulation , and for valid we add the conditions
+**3.4
